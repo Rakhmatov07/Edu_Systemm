@@ -1,0 +1,7 @@
+{
+    "PORT": 8787,
+    "JWT_KEY": "key$$for%%jet123",
+    "SALT": 10,
+    "ownEmail": "joewillson857@gmail.com",
+    "emailPass": "pqlnlqknqedsimza"
+}
